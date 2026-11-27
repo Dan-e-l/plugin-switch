@@ -11,10 +11,10 @@ Ausgeblendete Plugins verlieren ihre MCP-Tools, ihre Skills verschwinden aus der
 
 ## Installation
 
-In einer Claude-Code-Session eintippen (`<konto>` durch deinen GitHub-Namen ersetzen):
+In einer Claude-Code-Session eintippen:
 
 ```
-/plugin install plugin-switch --marketplace <konto>/plugin-switch
+/plugin install plugin-switch --marketplace Dan-e-l/plugin-switch
 ```
 
 Dann `y` zum Hinzufügen des Marketplace und als Bereich „user“ wählen (alle Sessions).
@@ -22,5 +22,5 @@ Dann `y` zum Hinzufügen des Marketplace und als Bereich „user“ wählen (all
 Oder aus einer Shell:
 
 ```
-claude plugin install plugin-switch --marketplace <konto>/plugin-switch
+claude plugin install plugin-switch --marketplace Dan-e-l/plugin-switch
 ```
