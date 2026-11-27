@@ -1,0 +1,1 @@
+{ "name": "plugin-switch", "version": "0.1.0", "description": "Zeigt die Plugins der Session, schlägt passende vor und blendet andere pro Aufgabe aus.", "types": "./types/index.d.ts" }
